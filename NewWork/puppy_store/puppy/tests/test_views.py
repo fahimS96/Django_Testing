@@ -64,7 +64,7 @@ class CreateNewPuppyTest(TestCase):
 
     def setUp(self):
         self.valid_payload = {
-            'name': 'Muffin',
+            'name': '',
             'age': 4,
             'breed': 'Pamerion',
             'color': 'White'
