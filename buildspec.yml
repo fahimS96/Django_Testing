@@ -12,6 +12,7 @@ phases:
     commands:
       - echo "Running all unit tests"
       - cd New\ Work/puppy_store
+      - ls
       - python manage.py test puppy.tests --with-coverage --cover-package=puppy
   post_build:
     commands:
