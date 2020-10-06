@@ -6,4 +6,8 @@ https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials.html
 
 https://www.youtube.com/watch?v=SP5je7d3MFA&list=PLx-q4INfd95EsUuON1TIcjnFZSqUfMf7s&index=2
 
+https://github.com/xmlrunner/unittest-xml-reporting
+
+
+ python manage.py test puppy.tests --with-coverage --cover-package=puppy
 
